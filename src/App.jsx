@@ -6,14 +6,14 @@ import {
   Services,
   SpecialOffers,
   Subscribe,
-  SuperQuality
-} from './sections';
-import Nav from './components/Nav';
+  SuperQuality,
+} from "./sections";
+import Nav from "./components/Nav";
 
 const App = () => (
   <main className="relative">
     <Nav />
-    <section className='xl:padding-l wide:padding-r padding-b'>
+    <section className="xl:padding-l wide:padding-r padding-b">
       <Hero />
     </section>
     <section className="padding">
@@ -35,7 +35,7 @@ const App = () => (
       <Subscribe />
     </section>
     <section className="bg-black padding-x padding-t pb-8">
-      Footer
+      <Footer />
     </section>
   </main>
 );
