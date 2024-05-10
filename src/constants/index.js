@@ -52,25 +52,25 @@ export const statistics = [
 export const products = [
   {
     imgURL: shoe4,
-    name: "Artiste modèle Banksy",
+    name: "Air Force Banksy",
     price: "199.99€",
     rate: "4.3",
   },
   {
     imgURL: shoe5,
-    name: "Person modèle Itachi",
+    name: "Air Force Itachi",
     price: "210.99€",
     rate: "4.4",
   },
   {
     imgURL: shoe6,
-    name: "Artiste modèle Hokusaï",
+    name: "Air Force Hokusaï",
     price: "259.99€",
     rate: "4.4",
   },
   {
     imgURL: shoe7,
-    name: "Fleur modèle Sakura",
+    name: "Air Force Cerisier",
     price: "210.99€",
     rate: "4.5",
   },
