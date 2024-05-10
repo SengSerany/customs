@@ -79,36 +79,38 @@ export const products = [
 export const services = [
   {
     imgURL: truckFast,
-    label: "Free shipping",
-    subtext: "Enjoy seamless shopping with our complimentary shipping service.",
+    label: "Livraison offerte",
+    subtext:
+      "Profitez d'un shopping en toute simplicité couronné de la livraison gratuite.",
   },
   {
     imgURL: shieldTick,
-    label: "Secure Payment",
+    label: "Payement sécurisé",
     subtext:
-      "Experience worry-free transactions with our secure payment options.",
+      "Effectuez vos transactions en toute sérénité grâce à nos options de paiement sécurisées.",
   },
   {
     imgURL: support,
-    label: "Love to help you",
-    subtext: "Our dedicated team is here to assist you every step of the way.",
+    label: "Besoin d'aide ?",
+    subtext:
+      "Notre équipe dévouée est à votre disposition pour vous accompagner à chaque étape",
   },
 ];
 
 export const reviews = [
   {
     imgURL: customer1,
-    customerName: "Morich Brown",
-    rating: 4.5,
+    customerName: "Eliott Lévy",
+    rating: 4.6,
     feedback:
-      "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!",
+      "L'attention portée aux détails et la qualité du produit ont dépassé mes attentes. Je recommande!",
   },
   {
     imgURL: customer2,
-    customerName: "Lota Mongeskar",
-    rating: 4.5,
+    customerName: "Inès Benali",
+    rating: 4.8,
     feedback:
-      "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
+      "Le produit a non seulement répondu à mes attentes, mais les a même dépassées. Je suis devenu une cliente fidèle!",
   },
 ];
 
