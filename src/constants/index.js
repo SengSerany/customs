@@ -110,7 +110,7 @@ export const reviews = [
     customerName: "Inès Benali",
     rating: 4.8,
     feedback:
-      "Le produit a non seulement répondu à mes attentes, mais les a même dépassées. Je suis devenu une cliente fidèle!",
+      "J'ai pu proposée le design que je voulais et ils l'ont sublimé. Je suis devenu une cliente fidèle!",
   },
 ];
 
