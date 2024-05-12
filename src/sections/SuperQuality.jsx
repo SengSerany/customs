@@ -7,6 +7,16 @@ const SuperQuality = () => {
       id="about-us"
       className="flex justify-between items-center max-lg:flex-col gap-10 w-full max-container"
     >
+      <div className="flex-1 flex justify-center items-center">
+        <img
+          src={shoe8}
+          alt="shoe8"
+          width={570}
+          height={522}
+          className="object-contain"
+        />
+      </div>
+
       <div className="flex flex-1 flex-col">
         <h2 className="font-palanquin capitalize text-4xl lg:max-w-lg font-bold">
           Personnalisation à<span className="text-blue-500"> Votre </span>
@@ -23,16 +33,6 @@ const SuperQuality = () => {
         <div className="mt-11">
           <Button label="Contacter nous" />
         </div>
-      </div>
-
-      <div className="flex-1 flex justify-center items-center">
-        <img
-          src={shoe8}
-          alt="shoe8"
-          width={570}
-          height={522}
-          className="object-contain"
-        />
       </div>
     </section>
   );
