@@ -34,7 +34,7 @@ const App = () => (
     <section className="padding-x sm:py-32 py-16 w-full">
       <Subscribe />
     </section>
-    <section className="bg-black padding-x padding-t pb-8">
+    <section className="bg-blue-900 padding-x padding-t pb-8">
       <Footer />
     </section>
   </main>

@@ -116,30 +116,29 @@ export const reviews = [
 
 export const footerLinks = [
   {
-    title: "Products",
+    title: "Produits",
     links: [
-      { name: "Air Force 1", link: "/" },
-      { name: "Air Max 1", link: "/" },
-      { name: "Air Jordan 1", link: "/" },
-      { name: "Air Force 2", link: "/" },
-      { name: "Nike Waffle Racer", link: "/" },
-      { name: "Nike Cortez", link: "/" },
+      { name: "Air Force Banksy", link: "/" },
+      { name: "Air Force Itachi", link: "/" },
+      { name: "Air Force Hokusaï", link: "/" },
+      { name: "Air Force Cerisier", link: "/" },
+      { name: "Plus...", link: "/" },
     ],
   },
   {
-    title: "Help",
+    title: "Aide",
     links: [
-      { name: "About us", link: "/" },
+      { name: "À propos", link: "/" },
       { name: "FAQs", link: "/" },
-      { name: "How it works", link: "/" },
-      { name: "Privacy policy", link: "/" },
-      { name: "Payment policy", link: "/" },
+      { name: "Informations légales", link: "/" },
+      { name: "Protection des données", link: "/" },
+      { name: "Politique de paiement", link: "/" },
     ],
   },
   {
-    title: "Get in touch",
+    title: "Gardons contact !",
     links: [
-      { name: "customer@nike.com", link: "mailto:customer@nike.com" },
+      { name: "customer@customs.com", link: "mailto:customer@customs.com" },
       { name: "+92554862354", link: "tel:+92554862354" },
     ],
   },
